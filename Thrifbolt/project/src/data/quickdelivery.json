@@ -1,0 +1,4841 @@
+{
+  "platforms": [
+    {
+      "platform_name": "Swiggy Instamart",
+      "categories": [
+        {
+          "category_name": "Chips and Namkeens",
+          "products": [
+            {
+              "product_name": "Kurkure",
+              "cost": "Rs 20",
+              "weight": "100g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Lays",
+              "cost": "Rs 20",
+              "weight": "100g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Bingo",
+              "cost": "Rs 20",
+              "weight": "100g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Cheetos",
+              "cost": "Rs 40",
+              "weight": "150g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Doritos",
+              "cost": "Rs 30",
+              "weight": "120g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Hot Chips",
+              "cost": "Rs 59",
+              "weight": "200g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Too Yumm",
+              "cost": "Rs 54",
+              "weight": "150g",
+              "delivery_time": "13 minutes"
+            },
+            {
+              "product_name": "Nutcracker",
+              "cost": "Rs 55",
+              "weight": "180g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Masala Puffs",
+              "cost": "Rs 36",
+              "weight": "120g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Spring",
+              "cost": "Rs 115",
+              "weight": "250g",
+              "delivery_time": "14 minutes"
+            },
+            {
+              "product_name": "Doritos",
+              "cost": "Rs 78",
+              "weight": "200g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Cheese Balls",
+              "cost": "Rs 36",
+              "weight": "100g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Makhana",
+              "cost": "Rs 198",
+              "weight": "300g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Nipper",
+              "cost": "Rs 209",
+              "weight": "250g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Nachos",
+              "cost": "Rs 18",
+              "weight": "100g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Third Day Mada",
+              "cost": "Rs 44",
+              "weight": "150g",
+              "delivery_time": "13 minutes"
+            },
+            {
+              "product_name": "Corn",
+              "cost": "Rs 30",
+              "weight": "120g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Pawn",
+              "cost": "Rs 20",
+              "weight": "100g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Chitos",
+              "cost": "Rs 10",
+              "weight": "80g",
+              "delivery_time": "11 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Fresh Vegetables and Fruits",
+          "products": [
+            {
+              "product_name": "Tomato",
+              "cost": "Rs 17",
+              "weight": "500g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Hybrid Tomato",
+              "cost": "Rs 17",
+              "weight": "500g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Potato",
+              "cost": "Rs 38",
+              "weight": "1kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Ooty Potato",
+              "cost": "Rs 52",
+              "weight": "500g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Onion",
+              "cost": "Rs 34",
+              "weight": "1kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Ladies Finger",
+              "cost": "Rs 15",
+              "weight": "300g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Carrot",
+              "cost": "Rs 38",
+              "weight": "500g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Beans",
+              "cost": "Rs 98",
+              "weight": "250g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Cauliflower",
+              "cost": "Rs 41",
+              "weight": "500g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Cucumber",
+              "cost": "Rs 19",
+              "weight": "3 pieces",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Green Capsicum",
+              "cost": "Rs 24",
+              "weight": "200g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Red Bell Pepper",
+              "cost": "Rs 37",
+              "weight": "200g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Ridge Gourd",
+              "cost": "Rs 36",
+              "weight": "500g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Pointed Gourd",
+              "cost": "Rs 40",
+              "weight": "300g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Drumstick",
+              "cost": "Rs 21",
+              "weight": "80g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Beetroot",
+              "cost": "Rs 32",
+              "weight": "500g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Brinjal",
+              "cost": "Rs 24",
+              "weight": "550g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Coconut",
+              "cost": "Rs 250",
+              "weight": "1 piece",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Coriander, Curry Leaves, Pudina Combo",
+              "cost": "Rs 29",
+              "weight": "100g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Coriander",
+              "cost": "Rs 12",
+              "weight": "100g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Chillies",
+              "cost": "Rs 12",
+              "weight": "100g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Spinach",
+              "cost": "Rs 26",
+              "weight": "250g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Mango",
+              "cost": "Rs 109",
+              "weight": "600g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Jamun",
+              "cost": "Rs 59",
+              "weight": "200g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Banana",
+              "cost": "Rs 64",
+              "weight": "500g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Litchi",
+              "cost": "Rs 109",
+              "weight": "250g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Big Bananas",
+              "cost": "Rs 38",
+              "weight": "4 pieces",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Indian Cherry",
+              "cost": "Rs 89",
+              "weight": "100g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Apples",
+              "cost": "Rs 89",
+              "weight": "400g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Watermelon",
+              "cost": "Rs 79",
+              "weight": "2.5kg",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Pomegranate",
+              "cost": "Rs 159",
+              "weight": "500g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Grapes",
+              "cost": "Rs 99",
+              "weight": "500g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Orange",
+              "cost": "Rs 69",
+              "weight": "500g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Tender Coconut",
+              "cost": "Rs 72",
+              "weight": "250ml",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Avocado",
+              "cost": "Rs 85",
+              "weight": "150g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Muskmelon",
+              "cost": "Rs 55",
+              "weight": "600g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Blueberries",
+              "cost": "Rs 249",
+              "weight": "120g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Pineapple",
+              "cost": "Rs 69",
+              "weight": "450g",
+              "delivery_time": "7 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Dairy, Bread and Eggs",
+          "products": [
+            {
+              "product_name": "Whole Wheat Bread",
+              "cost": "Rs 55",
+              "weight": "350g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Buttermilk Bread",
+              "cost": "Rs 39",
+              "weight": "250g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Fresh Malai Paneer",
+              "cost": "Rs 99",
+              "weight": "200g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Modern Whole Wheat Bread",
+              "cost": "Rs 54",
+              "weight": "400g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Amul Butter Chiplets",
+              "cost": "Rs 75",
+              "weight": "100g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Amul Garlic and Herbs Butter",
+              "cost": "Rs 70",
+              "weight": "100g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Amul Taaza Toned Milk",
+              "cost": "Rs 148",
+              "weight": "1L",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Amul Moti Toned Milk",
+              "cost": "Rs 30",
+              "weight": "450ml",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Amul Masti Spiced Buttermilk",
+              "cost": "Rs 70",
+              "weight": "1L",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Amul Gold Homogenised Milk",
+              "cost": "Rs 80",
+              "weight": "500ml",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Greek Yoghurt Blueberry",
+              "cost": "Rs 60",
+              "weight": "85g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Amul Cheese",
+              "cost": "Rs 130",
+              "weight": "200g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Nandini Milk",
+              "cost": "Rs 27",
+              "weight": "500ml",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Nandini Pasteurised Milk",
+              "cost": "Rs 24",
+              "weight": "500ml",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Heritage Daily Health Toned Milk",
+              "cost": "Rs 26",
+              "weight": "500ml",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Good Life Nandini Toned Milk",
+              "cost": "Rs 30",
+              "weight": "500ml",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Nandini Curd",
+              "cost": "Rs 30",
+              "weight": "500ml",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Eggs",
+              "cost": "Rs 135",
+              "weight": "10 pieces",
+              "delivery_time": "7 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Atta, Rice and Dal",
+          "products": [
+            {
+              "product_name": "Chakki Fresh Atta",
+              "cost": "Rs 256",
+              "weight": "1kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Fortune Premium Atta",
+              "cost": "Rs 301",
+              "weight": "5kg",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Super Atta",
+              "cost": "Rs 30",
+              "weight": "1kg",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Basmati Rice Fortune",
+              "cost": "Rs 89",
+              "weight": "1kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Basmati Rice Dawat",
+              "cost": "Rs 81",
+              "weight": "1kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "India Gate Basmati Rice",
+              "cost": "Rs 93",
+              "weight": "1kg",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Supreme Harvest",
+              "cost": "Rs 76",
+              "weight": "1kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Fortune Basmati",
+              "cost": "Rs 59",
+              "weight": "500g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Tata Sampann Basmati",
+              "cost": "Rs 60",
+              "weight": "500g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Bansi Rava",
+              "cost": "Rs 37",
+              "weight": "500g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Sooji Rava",
+              "cost": "Rs 42",
+              "weight": "500g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "HMY Arhar Dal",
+              "cost": "Rs 93",
+              "weight": "500g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Ginger Garlic Paste",
+              "cost": "Rs 44",
+              "weight": "200g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Mustard Small Whole Harvest",
+              "cost": "Rs 20",
+              "weight": "100g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Jeera",
+              "cost": "Rs 49",
+              "weight": "100g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Coriander Powder",
+              "cost": "Rs 31",
+              "weight": "100g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Coriander",
+              "cost": "Rs 30",
+              "weight": "100g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Red Chilli Powder",
+              "cost": "Rs 44",
+              "weight": "100g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Kashmiri Red Chilli Powder",
+              "cost": "Rs 90",
+              "weight": "100g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Coconut Milk",
+              "cost": "Rs 76",
+              "weight": "200ml",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Everest Red Chilli Powder",
+              "cost": "Rs 48",
+              "weight": "100g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Supreme Harvest Chilli Whole",
+              "cost": "Rs 60",
+              "weight": "100g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Everest Yellow Hing Powder",
+              "cost": "Rs 85",
+              "weight": "50g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Everest Chicken Masala",
+              "cost": "Rs 85",
+              "weight": "100g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Everest Turmeric Powder",
+              "cost": "Rs 82",
+              "weight": "200g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Catching Powder",
+              "cost": "Rs 107",
+              "weight": "50g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Organic India Himalayan Salt",
+              "cost": "Rs 137",
+              "weight": "1kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Tata Salt",
+              "cost": "Rs 28",
+              "weight": "1kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Salt",
+              "cost": "Rs 25",
+              "weight": "1kg",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Tata Pink Salt",
+              "cost": "Rs 74",
+              "weight": "1kg",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Black Salt",
+              "cost": "Rs 47",
+              "weight": "200g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Healthy Puro Salt",
+              "cost": "Rs 115",
+              "weight": "1kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Organic India Jaggery Powder",
+              "cost": "Rs 103",
+              "weight": "500g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Organic India Brown Sugar",
+              "cost": "Rs 50",
+              "weight": "500g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Gold Premium Brown Sugar",
+              "cost": "Rs 40",
+              "weight": "500g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Vataj Tea Powder",
+              "cost": "Rs 250",
+              "weight": "500g",
+              "delivery_time": "6 minutes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform_name": "Zepto",
+      "categories": [
+        {
+          "category_name": "Chips and Namkeens",
+          "products": [
+            {
+              "product_name": "Kurkure",
+              "cost": "Rs 18",
+              "weight": "99g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Lays",
+              "cost": "Rs 23",
+              "weight": "101g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Bingo",
+              "cost": "Rs 17",
+              "weight": "99g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Cheetos",
+              "cost": "Rs 42",
+              "weight": "149g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Doritos",
+              "cost": "Rs 31",
+              "weight": "121g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Hot Chips",
+              "cost": "Rs 60",
+              "weight": "199g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Too Yumm",
+              "cost": "Rs 52",
+              "weight": "149g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Nutcracker",
+              "cost": "Rs 56",
+              "weight": "179g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Masala Puffs",
+              "cost": "Rs 35",
+              "weight": "119g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Spring",
+              "cost": "Rs 112",
+              "weight": "249g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Doritos",
+              "cost": "Rs 77",
+              "weight": "199g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Cheese Balls",
+              "cost": "Rs 37",
+              "weight": "99g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Makhana",
+              "cost": "Rs 195",
+              "weight": "299g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Nipper",
+              "cost": "Rs 210",
+              "weight": "249g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Nachos",
+              "cost": "Rs 19",
+              "weight": "99g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Third Day Mada",
+              "cost": "Rs 45",
+              "weight": "149g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Corn",
+              "cost": "Rs 31",
+              "weight": "119g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Pawn",
+              "cost": "Rs 21",
+              "weight": "99g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Chitos",
+              "cost": "Rs 9",
+              "weight": "79g",
+              "delivery_time": "9 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Fresh Vegetables and Fruits",
+          "products": [
+            {
+              "product_name": "Tomato",
+              "cost": "Rs 18",
+              "weight": "498g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Hybrid Tomato",
+              "cost": "Rs 15",
+              "weight": "502g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Potato",
+              "cost": "Rs 40",
+              "weight": "1.02kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Ooty Potato",
+              "cost": "Rs 53",
+              "weight": "498g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Onion",
+              "cost": "Rs 35",
+              "weight": "1.03kg",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Ladies Finger",
+              "cost": "Rs 16",
+              "weight": "302g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Carrot",
+              "cost": "Rs 37",
+              "weight": "502g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Beans",
+              "cost": "Rs 100",
+              "weight": "252g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Cauliflower",
+              "cost": "Rs 42",
+              "weight": "498g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Cucumber",
+              "cost": "Rs 20",
+              "weight": "3 pieces",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Green Capsicum",
+              "cost": "Rs 25",
+              "weight": "198g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Red Bell Pepper",
+              "cost": "Rs 38",
+              "weight": "202g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Ridge Gourd",
+              "cost": "Rs 34",
+              "weight": "498g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Pointed Gourd",
+              "cost": "Rs 43",
+              "weight": "298g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Drumstick",
+              "cost": "Rs 20",
+              "weight": "83g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Beetroot",
+              "cost": "Rs 33",
+              "weight": "502g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Brinjal",
+              "cost": "Rs 25",
+              "weight": "548g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Coconut",
+              "cost": "Rs 245",
+              "weight": "1 piece",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Coriander, Curry Leaves, Pudina Combo",
+              "cost": "Rs 30",
+              "weight": "98g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Coriander",
+              "cost": "Rs 13",
+              "weight": "98g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Chillies",
+              "cost": "Rs 11",
+              "weight": "102g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Spinach",
+              "cost": "Rs 27",
+              "weight": "248g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Mango",
+              "cost": "Rs 110",
+              "weight": "598g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Jamun",
+              "cost": "Rs 62",
+              "weight": "202g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Banana",
+              "cost": "Rs 67",
+              "weight": "498g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Litchi",
+              "cost": "Rs 108",
+              "weight": "252g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Big Bananas",
+              "cost": "Rs 43",
+              "weight": "4 pieces",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Indian Cherry",
+              "cost": "Rs 92",
+              "weight": "98g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Apples",
+              "cost": "Rs 83",
+              "weight": "402g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Watermelon",
+              "cost": "Rs 83",
+              "weight": "2.48kg",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Pomegranate",
+              "cost": "Rs 155",
+              "weight": "502g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Grapes",
+              "cost": "Rs 102",
+              "weight": "498g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Orange",
+              "cost": "Rs 68",
+              "weight": "502g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Tender Coconut",
+              "cost": "Rs 70",
+              "weight": "248ml",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Avocado",
+              "cost": "Rs 87",
+              "weight": "152g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Muskmelon",
+              "cost": "Rs 52",
+              "weight": "598g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Blueberries",
+              "cost": "Rs 245",
+              "weight": "118g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Pineapple",
+              "cost": "Rs 68",
+              "weight": "448g",
+              "delivery_time": "6 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Dairy, Bread and Eggs",
+          "products": [
+            {
+              "product_name": "Whole Wheat Bread",
+              "cost": "Rs 53",
+              "weight": "348g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Buttermilk Bread",
+              "cost": "Rs 40",
+              "weight": "252g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Fresh Malai Paneer",
+              "cost": "Rs 95",
+              "weight": "198g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Modern Whole Wheat Bread",
+              "cost": "Rs 56",
+              "weight": "402g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Amul Butter Chiplets",
+              "cost": "Rs 78",
+              "weight": "102g",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Amul Garlic and Herbs Butter",
+              "cost": "Rs 68",
+              "weight": "98g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Amul Taaza Toned Milk",
+              "cost": "Rs 145",
+              "weight": "1.02L",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Amul Moti Toned Milk",
+              "cost": "Rs 28",
+              "weight": "448ml",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Amul Masti Spiced Buttermilk",
+              "cost": "Rs 72",
+              "weight": "1.03L",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Amul Gold Homogenised Milk",
+              "cost": "Rs 82",
+              "weight": "498ml",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Greek Yoghurt Blueberry",
+              "cost": "Rs 63",
+              "weight": "87g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Amul Cheese",
+              "cost": "Rs 128",
+              "weight": "202g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Nandini Milk",
+              "cost": "Rs 30",
+              "weight": "502ml",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Nandini Pasteurised Milk",
+              "cost": "Rs 25",
+              "weight": "498ml",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Heritage Daily Health Toned Milk",
+              "cost": "Rs 29",
+              "weight": "502ml",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Good Life Nandini Toned Milk",
+              "cost": "Rs 33",
+              "weight": "502ml",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Nandini Curd",
+              "cost": "Rs 32",
+              "weight": "502ml",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Eggs",
+              "cost": "Rs 138",
+              "weight": "10 pieces",
+              "delivery_time": "6 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Atta, Rice and Dal",
+          "products": [
+            {
+              "product_name": "Chakki Fresh Atta",
+              "cost": "Rs 252",
+              "weight": "1.02kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Fortune Premium Atta",
+              "cost": "Rs 305",
+              "weight": "5.02kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Super Atta",
+              "cost": "Rs 32",
+              "weight": "1.03kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Basmati Rice Fortune",
+              "cost": "Rs 90",
+              "weight": "1.02kg",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Basmati Rice Dawat",
+              "cost": "Rs 80",
+              "weight": "0.98kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "India Gate Basmati Rice",
+              "cost": "Rs 95",
+              "weight": "1.03kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Supreme Harvest",
+              "cost": "Rs 78",
+              "weight": "1.02kg",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Fortune Basmati",
+              "cost": "Rs 60",
+              "weight": "502g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Tata Sampann Basmati",
+              "cost": "Rs 58",
+              "weight": "498g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Bansi Rava",
+              "cost": "Rs 38",
+              "weight": "502g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Sooji Rava",
+              "cost": "Rs 43",
+              "weight": "498g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "HMY Arhar Dal",
+              "cost": "Rs 90",
+              "weight": "502g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Ginger Garlic Paste",
+              "cost": "Rs 46",
+              "weight": "202g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Mustard Small Whole Harvest",
+              "cost": "Rs 18",
+              "weight": "102g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Jeera",
+              "cost": "Rs 50",
+              "weight": "98g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Coriander Powder",
+              "cost": "Rs 33",
+              "weight": "102g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Coriander",
+              "cost": "Rs 27",
+              "weight": "98g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Red Chilli Powder",
+              "cost": "Rs 45",
+              "weight": "98g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Kashmiri Red Chilli Powder",
+              "cost": "Rs 88",
+              "weight": "98g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Coconut Milk",
+              "cost": "Rs 78",
+              "weight": "198ml",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Everest Red Chilli Powder",
+              "cost": "Rs 50",
+              "weight": "102g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Supreme Harvest Chilli Whole",
+              "cost": "Rs 62",
+              "weight": "102g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Everest Yellow Hing Powder",
+              "cost": "Rs 83",
+              "weight": "52g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Everest Chicken Masala",
+              "cost": "Rs 87",
+              "weight": "102g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Everest Turmeric Powder",
+              "cost": "Rs 80",
+              "weight": "202g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Catching Powder",
+              "cost": "Rs 105",
+              "weight": "48g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Organic India Himalayan Salt",
+              "cost": "Rs 135",
+              "weight": "1.02kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Tata Salt",
+              "cost": "Rs 27",
+              "weight": "0.98kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Salt",
+              "cost": "Rs 23",
+              "weight": "1.03kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Tata Pink Salt",
+              "cost": "Rs 75",
+              "weight": "0.98kg",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Black Salt",
+              "cost": "Rs 45",
+              "weight": "198g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Healthy Puro Salt",
+              "cost": "Rs 118",
+              "weight": "1.02kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Organic India Jaggery Powder",
+              "cost": "Rs 105",
+              "weight": "502g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Organic India Brown Sugar",
+              "cost": "Rs 48",
+              "weight": "498g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Gold Premium Brown Sugar",
+              "cost": "Rs 38",
+              "weight": "502g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Vataj Tea Powder",
+              "cost": "Rs 245",
+              "weight": "498g",
+              "delivery_time": "5 minutes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform_name": "Big Basket",
+      "categories": [
+        {
+          "category_name": "Chips and Namkeens",
+          "products": [
+            {
+              "product_name": "Kurkure",
+              "cost": "Rs 19",
+              "weight": "98g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Lays",
+              "cost": "Rs 22",
+              "weight": "102g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Bingo",
+              "cost": "Rs 18",
+              "weight": "98g",
+              "delivery_time": "14 minutes"
+            },
+            {
+              "product_name": "Cheetos",
+              "cost": "Rs 41",
+              "weight": "152g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Doritos",
+              "cost": "Rs 32",
+              "weight": "122g",
+              "delivery_time": "13 minutes"
+            },
+            {
+              "product_name": "Hot Chips",
+              "cost": "Rs 61",
+              "weight": "202g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Too Yumm",
+              "cost": "Rs 50",
+              "weight": "148g",
+              "delivery_time": "15 minutes"
+            },
+            {
+              "product_name": "Nutcracker",
+              "cost": "Rs 54",
+              "weight": "182g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Masala Puffs",
+              "cost": "Rs 35",
+              "weight": "118g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Spring",
+              "cost": "Rs 110",
+              "weight": "252g",
+              "delivery_time": "16 minutes"
+            },
+            {
+              "product_name": "Doritos",
+              "cost": "Rs 76",
+              "weight": "198g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Cheese Balls",
+              "cost": "Rs 38",
+              "weight": "102g",
+              "delivery_time": "13 minutes"
+            },
+            {
+              "product_name": "Makhana",
+              "cost": "Rs 200",
+              "weight": "298g",
+              "delivery_time": "14 minutes"
+            },
+            {
+              "product_name": "Nipper",
+              "cost": "Rs 215",
+              "weight": "252g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Nachos",
+              "cost": "Rs 17",
+              "weight": "102g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Third Day Mada",
+              "cost": "Rs 42",
+              "weight": "148g",
+              "delivery_time": "15 minutes"
+            },
+            {
+              "product_name": "Corn",
+              "cost": "Rs 29",
+              "weight": "122g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Pawn",
+              "cost": "Rs 19",
+              "weight": "102g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Chitos",
+              "cost": "Rs 11",
+              "weight": "82g",
+              "delivery_time": "13 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Fresh Vegetables and Fruits",
+          "products": [
+            {
+              "product_name": "Tomato",
+              "cost": "Rs 18",
+              "weight": "502g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Hybrid Tomato",
+              "cost": "Rs 16",
+              "weight": "498g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Potato",
+              "cost": "Rs 39",
+              "weight": "1.02kg",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Ooty Potato",
+              "cost": "Rs 54",
+              "weight": "502g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Onion",
+              "cost": "Rs 35",
+              "weight": "1.03kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Ladies Finger",
+              "cost": "Rs 14",
+              "weight": "298g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Carrot",
+              "cost": "Rs 39",
+              "weight": "502g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Beans",
+              "cost": "Rs 94",
+              "weight": "248g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Cauliflower",
+              "cost": "Rs 43",
+              "weight": "502g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Cucumber",
+              "cost": "Rs 20",
+              "weight": "3 pieces",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Green Capsicum",
+              "cost": "Rs 26",
+              "weight": "202g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Red Bell Pepper",
+              "cost": "Rs 36",
+              "weight": "198g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Ridge Gourd",
+              "cost": "Rs 37",
+              "weight": "502g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Pointed Gourd",
+              "cost": "Rs 41",
+              "weight": "302g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Drumstick",
+              "cost": "Rs 22",
+              "weight": "82g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Beetroot",
+              "cost": "Rs 31",
+              "weight": "498g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Brinjal",
+              "cost": "Rs 25",
+              "weight": "552g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Coconut",
+              "cost": "Rs 248",
+              "weight": "1 piece",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Coriander, Curry Leaves, Pudina Combo",
+              "cost": "Rs 30",
+              "weight": "102g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Coriander",
+              "cost": "Rs 13",
+              "weight": "102g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Chillies",
+              "cost": "Rs 11",
+              "weight": "98g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Spinach",
+              "cost": "Rs 27",
+              "weight": "252g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Mango",
+              "cost": "Rs 112",
+              "weight": "602g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Jamun",
+              "cost": "Rs 56",
+              "weight": "198g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Banana",
+              "cost": "Rs 66",
+              "weight": "502g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Litchi",
+              "cost": "Rs 107",
+              "weight": "248g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Big Bananas",
+              "cost": "Rs 39",
+              "weight": "4 pieces",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Indian Cherry",
+              "cost": "Rs 91",
+              "weight": "102g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Apples",
+              "cost": "Rs 87",
+              "weight": "398g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Watermelon",
+              "cost": "Rs 81",
+              "weight": "2.52kg",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Pomegranate",
+              "cost": "Rs 152",
+              "weight": "498g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Grapes",
+              "cost": "Rs 103",
+              "weight": "502g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Orange",
+              "cost": "Rs 67",
+              "weight": "498g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Tender Coconut",
+              "cost": "Rs 73",
+              "weight": "252ml",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Avocado",
+              "cost": "Rs 83",
+              "weight": "148g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Muskmelon",
+              "cost": "Rs 57",
+              "weight": "602g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Blueberries",
+              "cost": "Rs 242",
+              "weight": "122g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Pineapple",
+              "cost": "Rs 70",
+              "weight": "452g",
+              "delivery_time": "9 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Dairy, Bread and Eggs",
+          "products": [
+            {
+              "product_name": "Whole Wheat Bread",
+              "cost": "Rs 56",
+              "weight": "352g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Buttermilk Bread",
+              "cost": "Rs 38",
+              "weight": "248g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Fresh Malai Paneer",
+              "cost": "Rs 101",
+              "weight": "202g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Modern Whole Wheat Bread",
+              "cost": "Rs 53",
+              "weight": "398g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Amul Butter Chiplets",
+              "cost": "Rs 77",
+              "weight": "102g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Amul Garlic and Herbs Butter",
+              "cost": "Rs 68",
+              "weight": "98g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Amul Taaza Toned Milk",
+              "cost": "Rs 142",
+              "weight": "1.02L",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Amul Moti Toned Milk",
+              "cost": "Rs 31",
+              "weight": "452ml",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Amul Masti Spiced Buttermilk",
+              "cost": "Rs 73",
+              "weight": "1.02L",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Amul Gold Homogenised Milk",
+              "cost": "Rs 83",
+              "weight": "502ml",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Greek Yoghurt Blueberry",
+              "cost": "Rs 58",
+              "weight": "83g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Amul Cheese",
+              "cost": "Rs 127",
+              "weight": "198g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Nandini Milk",
+              "cost": "Rs 28",
+              "weight": "502ml",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Nandini Pasteurised Milk",
+              "cost": "Rs 23",
+              "weight": "498ml",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Heritage Daily Health Toned Milk",
+              "cost": "Rs 27",
+              "weight": "502ml",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Good Life Nandini Toned Milk",
+              "cost": "Rs 31",
+              "weight": "502ml",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Nandini Curd",
+              "cost": "Rs 29",
+              "weight": "498ml",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Eggs",
+              "cost": "Rs 137",
+              "weight": "10 pieces",
+              "delivery_time": "9 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Atta, Rice and Dal",
+          "products": [
+            {
+              "product_name": "Chakki Fresh Atta",
+              "cost": "Rs 254",
+              "weight": "1.02kg",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Fortune Premium Atta",
+              "cost": "Rs 308",
+              "weight": "5.03kg",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Super Atta",
+              "cost": "Rs 29",
+              "weight": "0.98kg",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Basmati Rice Fortune",
+              "cost": "Rs 91",
+              "weight": "1.02kg",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Basmati Rice Dawat",
+              "cost": "Rs 83",
+              "weight": "1.03kg",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "India Gate Basmati Rice",
+              "cost": "Rs 90",
+              "weight": "0.98kg",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Supreme Harvest",
+              "cost": "Rs 78",
+              "weight": "1.02kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Fortune Basmati",
+              "cost": "Rs 61",
+              "weight": "502g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Tata Sampann Basmati",
+              "cost": "Rs 57",
+              "weight": "498g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Bansi Rava",
+              "cost": "Rs 39",
+              "weight": "502g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Sooji Rava",
+              "cost": "Rs 44",
+              "weight": "502g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "HMY Arhar Dal",
+              "cost": "Rs 91",
+              "weight": "498g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Ginger Garlic Paste",
+              "cost": "Rs 45",
+              "weight": "202g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Mustard Small Whole Harvest",
+              "cost": "Rs 21",
+              "weight": "102g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Jeera",
+              "cost": "Rs 47",
+              "weight": "98g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Coriander Powder",
+              "cost": "Rs 32",
+              "weight": "102g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Coriander",
+              "cost": "Rs 29",
+              "weight": "98g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Red Chilli Powder",
+              "cost": "Rs 46",
+              "weight": "102g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Kashmiri Red Chilli Powder",
+              "cost": "Rs 87",
+              "weight": "98g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Coconut Milk",
+              "cost": "Rs 78",
+              "weight": "202ml",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Everest Red Chilli Powder",
+              "cost": "Rs 47",
+              "weight": "98g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Supreme Harvest Chilli Whole",
+              "cost": "Rs 62",
+              "weight": "102g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Everest Yellow Hing Powder",
+              "cost": "Rs 82",
+              "weight": "48g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Everest Chicken Masala",
+              "cost": "Rs 88",
+              "weight": "102g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Everest Turmeric Powder",
+              "cost": "Rs 80",
+              "weight": "198g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Catching Powder",
+              "cost": "Rs 105",
+              "weight": "52g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Organic India Himalayan Salt",
+              "cost": "Rs 132",
+              "weight": "0.98kg",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Tata Salt",
+              "cost": "Rs 29",
+              "weight": "1.02kg",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Salt",
+              "cost": "Rs 24",
+              "weight": "0.98kg",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Tata Pink Salt",
+              "cost": "Rs 76",
+              "weight": "1.02kg",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Black Salt",
+              "cost": "Rs 46",
+              "weight": "198g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Healthy Puro Salt",
+              "cost": "Rs 117",
+              "weight": "1.02kg",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Organic India Jaggery Powder",
+              "cost": "Rs 105",
+              "weight": "502g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Organic India Brown Sugar",
+              "cost": "Rs 49",
+              "weight": "498g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Gold Premium Brown Sugar",
+              "cost": "Rs 41",
+              "weight": "502g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Vataj Tea Powder",
+              "cost": "Rs 252",
+              "weight": "502g",
+              "delivery_time": "8 minutes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform_name": "Blinkit",
+      "categories": [
+        {
+          "category_name": "Chips and Namkeens",
+          "products": [
+            {
+              "product_name": "Kurkure",
+              "cost": "Rs 15",
+              "weight": "98g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Lays",
+              "cost": "Rs 25",
+              "weight": "102g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Bingo",
+              "cost": "Rs 18",
+              "weight": "97g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Cheetos",
+              "cost": "Rs 45",
+              "weight": "153g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Doritos",
+              "cost": "Rs 28",
+              "weight": "118g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Hot Chips",
+              "cost": "Rs 65",
+              "weight": "203g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Too Yumm",
+              "cost": "Rs 48",
+              "weight": "147g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Nutcracker",
+              "cost": "Rs 60",
+              "weight": "183g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Masala Puffs",
+              "cost": "Rs 40",
+              "weight": "123g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Spring",
+              "cost": "Rs 108",
+              "weight": "247g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Doritos",
+              "cost": "Rs 82",
+              "weight": "203g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Cheese Balls",
+              "cost": "Rs 32",
+              "weight": "97g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Makhana",
+              "cost": "Rs 205",
+              "weight": "303g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Nipper",
+              "cost": "Rs 200",
+              "weight": "247g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Nachos",
+              "cost": "Rs 15",
+              "weight": "97g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Third Day Mada",
+              "cost": "Rs 48",
+              "weight": "153g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Corn",
+              "cost": "Rs 25",
+              "weight": "117g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Pawn",
+              "cost": "Rs 15",
+              "weight": "97g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Chitos",
+              "cost": "Rs 8",
+              "weight": "77g",
+              "delivery_time": "9 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Fresh Vegetables and Fruits",
+          "products": [
+            {
+              "product_name": "Tomato",
+              "cost": "Rs 20",
+              "weight": "503g",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Hybrid Tomato",
+              "cost": "Rs 13",
+              "weight": "497g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Potato",
+              "cost": "Rs 42",
+              "weight": "1.03kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Ooty Potato",
+              "cost": "Rs 48",
+              "weight": "497g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Onion",
+              "cost": "Rs 38",
+              "weight": "1.02kg",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Ladies Finger",
+              "cost": "Rs 18",
+              "weight": "303g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Carrot",
+              "cost": "Rs 35",
+              "weight": "497g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Beans",
+              "cost": "Rs 103",
+              "weight": "253g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Cauliflower",
+              "cost": "Rs 37",
+              "weight": "497g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Cucumber",
+              "cost": "Rs 22",
+              "weight": "3 pieces",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Green Capsicum",
+              "cost": "Rs 28",
+              "weight": "203g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Red Bell Pepper",
+              "cost": "Rs 40",
+              "weight": "203g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Ridge Gourd",
+              "cost": "Rs 32",
+              "weight": "497g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Pointed Gourd",
+              "cost": "Rs 45",
+              "weight": "303g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Drumstick",
+              "cost": "Rs 18",
+              "weight": "77g",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Beetroot",
+              "cost": "Rs 35",
+              "weight": "503g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Brinjal",
+              "cost": "Rs 27",
+              "weight": "553g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Coconut",
+              "cost": "Rs 260",
+              "weight": "1 piece",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Coriander, Curry Leaves, Pudina Combo",
+              "cost": "Rs 33",
+              "weight": "103g",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Coriander",
+              "cost": "Rs 10",
+              "weight": "97g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Chillies",
+              "cost": "Rs 15",
+              "weight": "103g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Spinach",
+              "cost": "Rs 22",
+              "weight": "247g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Mango",
+              "cost": "Rs 100",
+              "weight": "597g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Jamun",
+              "cost": "Rs 64",
+              "weight": "203g",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Banana",
+              "cost": "Rs 70",
+              "weight": "503g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Litchi",
+              "cost": "Rs 115",
+              "weight": "253g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Big Bananas",
+              "cost": "Rs 42",
+              "weight": "4 pieces",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Indian Cherry",
+              "cost": "Rs 95",
+              "weight": "103g",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Apples",
+              "cost": "Rs 82",
+              "weight": "397g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Watermelon",
+              "cost": "Rs 85",
+              "weight": "2.53kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Pomegranate",
+              "cost": "Rs 165",
+              "weight": "503g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Grapes",
+              "cost": "Rs 105",
+              "weight": "503g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Orange",
+              "cost": "Rs 75",
+              "weight": "503g",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Tender Coconut",
+              "cost": "Rs 78",
+              "weight": "253ml",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Avocado",
+              "cost": "Rs 90",
+              "weight": "153g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Muskmelon",
+              "cost": "Rs 50",
+              "weight": "597g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Blueberries",
+              "cost": "Rs 255",
+              "weight": "123g",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Pineapple",
+              "cost": "Rs 63",
+              "weight": "447g",
+              "delivery_time": "5 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Dairy, Bread and Eggs",
+          "products": [
+            {
+              "product_name": "Whole Wheat Bread",
+              "cost": "Rs 50",
+              "weight": "347g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Buttermilk Bread",
+              "cost": "Rs 43",
+              "weight": "253g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Fresh Malai Paneer",
+              "cost": "Rs 92",
+              "weight": "197g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Modern Whole Wheat Bread",
+              "cost": "Rs 58",
+              "weight": "403g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Amul Butter Chiplets",
+              "cost": "Rs 80",
+              "weight": "103g",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Amul Garlic and Herbs Butter",
+              "cost": "Rs 75",
+              "weight": "103g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Amul Taaza Toned Milk",
+              "cost": "Rs 155",
+              "weight": "1.03L",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Amul Moti Toned Milk",
+              "cost": "Rs 27",
+              "weight": "447ml",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Amul Masti Spiced Buttermilk",
+              "cost": "Rs 65",
+              "weight": "0.97L",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Amul Gold Homogenised Milk",
+              "cost": "Rs 85",
+              "weight": "503ml",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Greek Yoghurt Blueberry",
+              "cost": "Rs 65",
+              "weight": "88g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Amul Cheese",
+              "cost": "Rs 135",
+              "weight": "203g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Nandini Milk",
+              "cost": "Rs 32",
+              "weight": "503ml",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Nandini Pasteurised Milk",
+              "cost": "Rs 20",
+              "weight": "497ml",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Heritage Daily Health Toned Milk",
+              "cost": "Rs 30",
+              "weight": "503ml",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Good Life Nandini Toned Milk",
+              "cost": "Rs 35",
+              "weight": "503ml",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Nandini Curd",
+              "cost": "Rs 33",
+              "weight": "503ml",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Eggs",
+              "cost": "Rs 145",
+              "weight": "10 pieces",
+              "delivery_time": "6 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Atta, Rice and Dal",
+          "products": [
+            {
+              "product_name": "Chakki Fresh Atta",
+              "cost": "Rs 250",
+              "weight": "0.98kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Fortune Premium Atta",
+              "cost": "Rs 315",
+              "weight": "5.02kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Super Atta",
+              "cost": "Rs 35",
+              "weight": "1.03kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Basmati Rice Fortune",
+              "cost": "Rs 95",
+              "weight": "1.03kg",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Basmati Rice Dawat",
+              "cost": "Rs 75",
+              "weight": "0.97kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "India Gate Basmati Rice",
+              "cost": "Rs 100",
+              "weight": "1.02kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Supreme Harvest",
+              "cost": "Rs 70",
+              "weight": "0.98kg",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Fortune Basmati",
+              "cost": "Rs 65",
+              "weight": "503g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Tata Sampann Basmati",
+              "cost": "Rs 50",
+              "weight": "497g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Bansi Rava",
+              "cost": "Rs 42",
+              "weight": "503g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Sooji Rava",
+              "cost": "Rs 40",
+              "weight": "497g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "HMY Arhar Dal",
+              "cost": "Rs 98",
+              "weight": "503g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Ginger Garlic Paste",
+              "cost": "Rs 50",
+              "weight": "203g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Mustard Small Whole Harvest",
+              "cost": "Rs 15",
+              "weight": "97g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Jeera",
+              "cost": "Rs 53",
+              "weight": "103g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Coriander Powder",
+              "cost": "Rs 28",
+              "weight": "97g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Coriander",
+              "cost": "Rs 33",
+              "weight": "103g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Red Chilli Powder",
+              "cost": "Rs 50",
+              "weight": "103g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Kashmiri Red Chilli Powder",
+              "cost": "Rs 95",
+              "weight": "103g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Coconut Milk",
+              "cost": "Rs 70",
+              "weight": "197ml",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Everest Red Chilli Powder",
+              "cost": "Rs 53",
+              "weight": "103g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Supreme Harvest Chilli Whole",
+              "cost": "Rs 55",
+              "weight": "97g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Everest Yellow Hing Powder",
+              "cost": "Rs 90",
+              "weight": "53g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Everest Chicken Masala",
+              "cost": "Rs 80",
+              "weight": "97g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Everest Turmeric Powder",
+              "cost": "Rs 87",
+              "weight": "203g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Catching Powder",
+              "cost": "Rs 100",
+              "weight": "47g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Organic India Himalayan Salt",
+              "cost": "Rs 142",
+              "weight": "1.03kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Tata Salt",
+              "cost": "Rs 33",
+              "weight": "1.03kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Salt",
+              "cost": "Rs 20",
+              "weight": "0.97kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Tata Pink Salt",
+              "cost": "Rs 80",
+              "weight": "1.03kg",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Black Salt",
+              "cost": "Rs 52",
+              "weight": "203g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Healthy Puro Salt",
+              "cost": "Rs 110",
+              "weight": "0.97kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Organic India Jaggery Powder",
+              "cost": "Rs 110",
+              "weight": "503g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Organic India Brown Sugar",
+              "cost": "Rs 55",
+              "weight": "503g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Gold Premium Brown Sugar",
+              "cost": "Rs 35",
+              "weight": "497g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Vataj Tea Powder",
+              "cost": "Rs 260",
+              "weight": "503g",
+              "delivery_time": "5 minutes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform_name": "Dunzo",
+      "categories": [
+        {
+          "category_name": "Chips and Namkeens",
+          "products": [
+            {
+              "product_name": "Kurkure",
+              "cost": "Rs 17",
+              "weight": "97g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Lays",
+              "cost": "Rs 22",
+              "weight": "103g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Bingo",
+              "cost": "Rs 15",
+              "weight": "98g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Cheetos",
+              "cost": "Rs 43",
+              "weight": "147g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Doritos",
+              "cost": "Rs 33",
+              "weight": "123g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Hot Chips",
+              "cost": "Rs 62",
+              "weight": "197g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Too Yumm",
+              "cost": "Rs 51",
+              "weight": "153g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Nutcracker",
+              "cost": "Rs 57",
+              "weight": "177g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Masala Puffs",
+              "cost": "Rs 39",
+              "weight": "117g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Spring",
+              "cost": "Rs 110",
+              "weight": "253g",
+              "delivery_time": "13 minutes"
+            },
+            {
+              "product_name": "Doritos",
+              "cost": "Rs 80",
+              "weight": "197g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Cheese Balls",
+              "cost": "Rs 33",
+              "weight": "103g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Makhana",
+              "cost": "Rs 203",
+              "weight": "297g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Nipper",
+              "cost": "Rs 204",
+              "weight": "253g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Nachos",
+              "cost": "Rs 16",
+              "weight": "103g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Third Day Mada",
+              "cost": "Rs 47",
+              "weight": "147g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Corn",
+              "cost": "Rs 30",
+              "weight": "123g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Pawn",
+              "cost": "Rs 20",
+              "weight": "103g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Chitos",
+              "cost": "Rs 10",
+              "weight": "80g",
+              "delivery_time": "10 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Fresh Vegetables and Fruits",
+          "products": [
+            {
+              "product_name": "Tomato",
+              "cost": "Rs 19",
+              "weight": "497g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Hybrid Tomato",
+              "cost": "Rs 16",
+              "weight": "503g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Potato",
+              "cost": "Rs 41",
+              "weight": "1.03kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Ooty Potato",
+              "cost": "Rs 50",
+              "weight": "497g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Onion",
+              "cost": "Rs 36",
+              "weight": "1.02kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Ladies Finger",
+              "cost": "Rs 17",
+              "weight": "303g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Carrot",
+              "cost": "Rs 38",
+              "weight": "503g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Beans",
+              "cost": "Rs 102",
+              "weight": "253g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Cauliflower",
+              "cost": "Rs 44",
+              "weight": "497g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Cucumber",
+              "cost": "Rs 21",
+              "weight": "3 pieces",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Green Capsicum",
+              "cost": "Rs 26",
+              "weight": "197g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Red Bell Pepper",
+              "cost": "Rs 39",
+              "weight": "203g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Ridge Gourd",
+              "cost": "Rs 35",
+              "weight": "497g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Pointed Gourd",
+              "cost": "Rs 42",
+              "weight": "297g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Drumstick",
+              "cost": "Rs 19",
+              "weight": "83g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Beetroot",
+              "cost": "Rs 34",
+              "weight": "503g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Brinjal",
+              "cost": "Rs 26",
+              "weight": "547g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Coconut",
+              "cost": "Rs 240",
+              "weight": "1 piece",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Coriander, Curry Leaves, Pudina Combo",
+              "cost": "Rs 31",
+              "weight": "97g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Coriander",
+              "cost": "Rs 14",
+              "weight": "97g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Chillies",
+              "cost": "Rs 12",
+              "weight": "103g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Spinach",
+              "cost": "Rs 28",
+              "weight": "247g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Mango",
+              "cost": "Rs 115",
+              "weight": "597g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Jamun",
+              "cost": "Rs 65",
+              "weight": "203g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Banana",
+              "cost": "Rs 68",
+              "weight": "497g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Litchi",
+              "cost": "Rs 110",
+              "weight": "247g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Big Bananas",
+              "cost": "Rs 44",
+              "weight": "4 pieces",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Indian Cherry",
+              "cost": "Rs 90",
+              "weight": "97g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Apples",
+              "cost": "Rs 85",
+              "weight": "403g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Watermelon",
+              "cost": "Rs 80",
+              "weight": "2.47kg",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Pomegranate",
+              "cost": "Rs 150",
+              "weight": "503g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Grapes",
+              "cost": "Rs 100",
+              "weight": "497g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Orange",
+              "cost": "Rs 70",
+              "weight": "503g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Tender Coconut",
+              "cost": "Rs 72",
+              "weight": "247ml",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Avocado",
+              "cost": "Rs 88",
+              "weight": "153g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Muskmelon",
+              "cost": "Rs 53",
+              "weight": "597g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Blueberries",
+              "cost": "Rs 250",
+              "weight": "117g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Pineapple",
+              "cost": "Rs 65",
+              "weight": "447g",
+              "delivery_time": "7 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Dairy, Bread and Eggs",
+          "products": [
+            {
+              "product_name": "Whole Wheat Bread",
+              "cost": "Rs 54",
+              "weight": "347g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Buttermilk Bread",
+              "cost": "Rs 41",
+              "weight": "253g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Fresh Malai Paneer",
+              "cost": "Rs 98",
+              "weight": "197g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Modern Whole Wheat Bread",
+              "cost": "Rs 55",
+              "weight": "403g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Amul Butter Chiplets",
+              "cost": "Rs 76",
+              "weight": "103g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Amul Garlic and Herbs Butter",
+              "cost": "Rs 69",
+              "weight": "97g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Amul Taaza Toned Milk",
+              "cost": "Rs 150",
+              "weight": "1.03L",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Amul Moti Toned Milk",
+              "cost": "Rs 29",
+              "weight": "447ml",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Amul Masti Spiced Buttermilk",
+              "cost": "Rs 71",
+              "weight": "1.02L",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Amul Gold Homogenised Milk",
+              "cost": "Rs 81",
+              "weight": "497ml",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Greek Yoghurt Blueberry",
+              "cost": "Rs 62",
+              "weight": "87g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Amul Cheese",
+              "cost": "Rs 129",
+              "weight": "203g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Nandini Milk",
+              "cost": "Rs 31",
+              "weight": "503ml",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Nandini Pasteurised Milk",
+              "cost": "Rs 26",
+              "weight": "497ml",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Heritage Daily Health Toned Milk",
+              "cost": "Rs 28",
+              "weight": "503ml",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Good Life Nandini Toned Milk",
+              "cost": "Rs 32",
+              "weight": "503ml",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Nandini Curd",
+              "cost": "Rs 31",
+              "weight": "503ml",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Eggs",
+              "cost": "Rs 140",
+              "weight": "10 pieces",
+              "delivery_time": "7 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Atta, Rice and Dal",
+          "products": [
+            {
+              "product_name": "Chakki Fresh Atta",
+              "cost": "Rs 255",
+              "weight": "1.03kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Fortune Premium Atta",
+              "cost": "Rs 310",
+              "weight": "5.03kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Super Atta",
+              "cost": "Rs 31",
+              "weight": "1.02kg",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Basmati Rice Fortune",
+              "cost": "Rs 92",
+              "weight": "1.03kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Basmati Rice Dawat",
+              "cost": "Rs 79",
+              "weight": "0.97kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "India Gate Basmati Rice",
+              "cost": "Rs 94",
+              "weight": "1.02kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Supreme Harvest",
+              "cost": "Rs 77",
+              "weight": "1.03kg",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Fortune Basmati",
+              "cost": "Rs 62",
+              "weight": "503g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Tata Sampann Basmati",
+              "cost": "Rs 59",
+              "weight": "497g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Bansi Rava",
+              "cost": "Rs 40",
+              "weight": "503g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Sooji Rava",
+              "cost": "Rs 45",
+              "weight": "497g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "HMY Arhar Dal",
+              "cost": "Rs 92",
+              "weight": "503g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Ginger Garlic Paste",
+              "cost": "Rs 47",
+              "weight": "203g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Mustard Small Whole Harvest",
+              "cost": "Rs 19",
+              "weight": "103g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Jeera",
+              "cost": "Rs 48",
+              "weight": "97g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Coriander Powder",
+              "cost": "Rs 32",
+              "weight": "103g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Coriander",
+              "cost": "Rs 28",
+              "weight": "97g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Red Chilli Powder",
+              "cost": "Rs 46",
+              "weight": "97g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Kashmiri Red Chilli Powder",
+              "cost": "Rs 89",
+              "weight": "97g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Coconut Milk",
+              "cost": "Rs 79",
+              "weight": "197ml",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Everest Red Chilli Powder",
+              "cost": "Rs 49",
+              "weight": "103g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Supreme Harvest Chilli Whole",
+              "cost": "Rs 61",
+              "weight": "103g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Everest Yellow Hing Powder",
+              "cost": "Rs 84",
+              "weight": "53g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Everest Chicken Masala",
+              "cost": "Rs 86",
+              "weight": "103g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Everest Turmeric Powder",
+              "cost": "Rs 81",
+              "weight": "203g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Catching Powder",
+              "cost": "Rs 106",
+              "weight": "53g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Organic India Himalayan Salt",
+              "cost": "Rs 138",
+              "weight": "1.03kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Tata Salt",
+              "cost": "Rs 26",
+              "weight": "0.97kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Salt",
+              "cost": "Rs 24",
+              "weight": "1.03kg",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Tata Pink Salt",
+              "cost": "Rs 73",
+              "weight": "0.97kg",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Black Salt",
+              "cost": "Rs 48",
+              "weight": "197g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Healthy Puro Salt",
+              "cost": "Rs 120",
+              "weight": "1.03kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Organic India Jaggery Powder",
+              "cost": "Rs 104",
+              "weight": "503g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Organic India Brown Sugar",
+              "cost": "Rs 51",
+              "weight": "497g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Gold Premium Brown Sugar",
+              "cost": "Rs 42",
+              "weight": "503g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Vataj Tea Powder",
+              "cost": "Rs 248",
+              "weight": "503g",
+              "delivery_time": "6 minutes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform_name": "Zomato",
+      "categories": [
+        {
+          "category_name": "Chips and Namkeens",
+          "products": [
+            {
+              "product_name": "Kurkure",
+              "cost": "Rs 18",
+              "weight": "98g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Lays",
+              "cost": "Rs 23",
+              "weight": "102g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Bingo",
+              "cost": "Rs 16",
+              "weight": "99g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Cheetos",
+              "cost": "Rs 40",
+              "weight": "148g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Doritos",
+              "cost": "Rs 30",
+              "weight": "122g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Hot Chips",
+              "cost": "Rs 60",
+              "weight": "198g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Too Yumm",
+              "cost": "Rs 53",
+              "weight": "148g",
+              "delivery_time": "13 minutes"
+            },
+            {
+              "product_name": "Nutcracker",
+              "cost": "Rs 55",
+              "weight": "178g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Masala Puffs",
+              "cost": "Rs 37",
+              "weight": "118g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Spring",
+              "cost": "Rs 115",
+              "weight": "248g",
+              "delivery_time": "14 minutes"
+            },
+            {
+              "product_name": "Doritos",
+              "cost": "Rs 78",
+              "weight": "198g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Cheese Balls",
+              "cost": "Rs 35",
+              "weight": "98g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Makhana",
+              "cost": "Rs 198",
+              "weight": "298g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Nipper",
+              "cost": "Rs 205",
+              "weight": "248g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Nachos",
+              "cost": "Rs 17",
+              "weight": "98g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Third Day Mada",
+              "cost": "Rs 45",
+              "weight": "148g",
+              "delivery_time": "13 minutes"
+            },
+            {
+              "product_name": "Corn",
+              "cost": "Rs 31",
+              "weight": "118g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Pawn",
+              "cost": "Rs 21",
+              "weight": "98g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Chitos",
+              "cost": "Rs 9",
+              "weight": "78g",
+              "delivery_time": "11 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Fresh Vegetables and Fruits",
+          "products": [
+            {
+              "product_name": "Tomato",
+              "cost": "Rs 18",
+              "weight": "498g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Hybrid Tomato",
+              "cost": "Rs 15",
+              "weight": "502g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Potato",
+              "cost": "Rs 40",
+              "weight": "1.02kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Ooty Potato",
+              "cost": "Rs 53",
+              "weight": "498g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Onion",
+              "cost": "Rs 35",
+              "weight": "1.03kg",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Ladies Finger",
+              "cost": "Rs 16",
+              "weight": "302g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Carrot",
+              "cost": "Rs 37",
+              "weight": "502g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Beans",
+              "cost": "Rs 100",
+              "weight": "252g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Cauliflower",
+              "cost": "Rs 42",
+              "weight": "498g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Cucumber",
+              "cost": "Rs 20",
+              "weight": "3 pieces",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Green Capsicum",
+              "cost": "Rs 25",
+              "weight": "198g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Red Bell Pepper",
+              "cost": "Rs 38",
+              "weight": "202g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Ridge Gourd",
+              "cost": "Rs 34",
+              "weight": "498g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Pointed Gourd",
+              "cost": "Rs 43",
+              "weight": "298g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Drumstick",
+              "cost": "Rs 20",
+              "weight": "83g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Beetroot",
+              "cost": "Rs 33",
+              "weight": "502g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Brinjal",
+              "cost": "Rs 25",
+              "weight": "548g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Coconut",
+              "cost": "Rs 245",
+              "weight": "1 piece",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Coriander, Curry Leaves, Pudina Combo",
+              "cost": "Rs 30",
+              "weight": "98g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Coriander",
+              "cost": "Rs 13",
+              "weight": "98g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Chillies",
+              "cost": "Rs 11",
+              "weight": "102g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Spinach",
+              "cost": "Rs 27",
+              "weight": "248g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Mango",
+              "cost": "Rs 110",
+              "weight": "598g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Jamun",
+              "cost": "Rs 62",
+              "weight": "202g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Banana",
+              "cost": "Rs 67",
+              "weight": "498g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Litchi",
+              "cost": "Rs 108",
+              "weight": "252g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Big Bananas",
+              "cost": "Rs 43",
+              "weight": "4 pieces",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Indian Cherry",
+              "cost": "Rs 92",
+              "weight": "98g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Apples",
+              "cost": "Rs 83",
+              "weight": "402g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Watermelon",
+              "cost": "Rs 83",
+              "weight": "2.48kg",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Pomegranate",
+              "cost": "Rs 155",
+              "weight": "502g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Grapes",
+              "cost": "Rs 102",
+              "weight": "498g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Orange",
+              "cost": "Rs 68",
+              "weight": "502g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Tender Coconut",
+              "cost": "Rs 70",
+              "weight": "248ml",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Avocado",
+              "cost": "Rs 87",
+              "weight": "152g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Muskmelon",
+              "cost": "Rs 52",
+              "weight": "598g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Blueberries",
+              "cost": "Rs 245",
+              "weight": "118g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Pineapple",
+              "cost": "Rs 68",
+              "weight": "448g",
+              "delivery_time": "6 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Dairy, Bread and Eggs",
+          "products": [
+            {
+              "product_name": "Whole Wheat Bread",
+              "cost": "Rs 53",
+              "weight": "348g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Buttermilk Bread",
+              "cost": "Rs 40",
+              "weight": "252g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Fresh Malai Paneer",
+              "cost": "Rs 95",
+              "weight": "198g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Modern Whole Wheat Bread",
+              "cost": "Rs 56",
+              "weight": "402g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Amul Butter Chiplets",
+              "cost": "Rs 78",
+              "weight": "102g",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Amul Garlic and Herbs Butter",
+              "cost": "Rs 68",
+              "weight": "98g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Amul Taaza Toned Milk",
+              "cost": "Rs 145",
+              "weight": "1.02L",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Amul Moti Toned Milk",
+              "cost": "Rs 28",
+              "weight": "448ml",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Amul Masti Spiced Buttermilk",
+              "cost": "Rs 72",
+              "weight": "1.03L",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Amul Gold Homogenised Milk",
+              "cost": "Rs 82",
+              "weight": "498ml",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Greek Yoghurt Blueberry",
+              "cost": "Rs 63",
+              "weight": "87g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Amul Cheese",
+              "cost": "Rs 128",
+              "weight": "202g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Nandini Milk",
+              "cost": "Rs 30",
+              "weight": "502ml",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Nandini Pasteurised Milk",
+              "cost": "Rs 25",
+              "weight": "498ml",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Heritage Daily Health Toned Milk",
+              "cost": "Rs 29",
+              "weight": "502ml",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Good Life Nandini Toned Milk",
+              "cost": "Rs 33",
+              "weight": "502ml",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Nandini Curd",
+              "cost": "Rs 32",
+              "weight": "502ml",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Eggs",
+              "cost": "Rs 138",
+              "weight": "10 pieces",
+              "delivery_time": "6 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Atta, Rice and Dal",
+          "products": [
+            {
+              "product_name": "Chakki Fresh Atta",
+              "cost": "Rs 252",
+              "weight": "1.02kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Fortune Premium Atta",
+              "cost": "Rs 305",
+              "weight": "5.02kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Super Atta",
+              "cost": "Rs 32",
+              "weight": "1.03kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Basmati Rice Fortune",
+              "cost": "Rs 90",
+              "weight": "1.02kg",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Basmati Rice Dawat",
+              "cost": "Rs 80",
+              "weight": "0.98kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "India Gate Basmati Rice",
+              "cost": "Rs 95",
+              "weight": "1.03kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Supreme Harvest",
+              "cost": "Rs 78",
+              "weight": "1.02kg",
+              "delivery_time": "4 minutes"
+            },
+            {
+              "product_name": "Fortune Basmati",
+              "cost": "Rs 60",
+              "weight": "502g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Tata Sampann Basmati",
+              "cost": "Rs 58",
+              "weight": "498g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Bansi Rava",
+              "cost": "Rs 38",
+              "weight": "502g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Sooji Rava",
+              "cost": "Rs 43",
+              "weight": "498g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "HMY Arhar Dal",
+              "cost": "Rs 90",
+              "weight": "502g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Ginger Garlic Paste",
+              "cost": "Rs 46",
+              "weight": "202g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Mustard Small Whole Harvest",
+              "cost": "Rs 18",
+              "weight": "102g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Jeera",
+              "cost": "Rs 50",
+              "weight": "98g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Coriander Powder",
+              "cost": "Rs 33",
+              "weight": "102g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Coriander",
+              "cost": "Rs 27",
+              "weight": "98g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Red Chilli Powder",
+              "cost": "Rs 45",
+              "weight": "98g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Kashmiri Red Chilli Powder",
+              "cost": "Rs 88",
+              "weight": "98g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Coconut Milk",
+              "cost": "Rs 78",
+              "weight": "198ml",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Everest Red Chilli Powder",
+              "cost": "Rs 50",
+              "weight": "102g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Supreme Harvest Chilli Whole",
+              "cost": "Rs 62",
+              "weight": "102g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Everest Yellow Hing Powder",
+              "cost": "Rs 83",
+              "weight": "52g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Everest Chicken Masala",
+              "cost": "Rs 87",
+              "weight": "102g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Everest Turmeric Powder",
+              "cost": "Rs 80",
+              "weight": "202g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Catching Powder",
+              "cost": "Rs 105",
+              "weight": "48g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Organic India Himalayan Salt",
+              "cost": "Rs 135",
+              "weight": "1.02kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Tata Salt",
+              "cost": "Rs 27",
+              "weight": "0.98kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Salt",
+              "cost": "Rs 23",
+              "weight": "1.03kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Tata Pink Salt",
+              "cost": "Rs 75",
+              "weight": "0.98kg",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Black Salt",
+              "cost": "Rs 45",
+              "weight": "198g",
+              "delivery_time": "5 minutes"
+            },
+            {
+              "product_name": "Healthy Puro Salt",
+              "cost": "Rs 118",
+              "weight": "1.02kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Organic India Jaggery Powder",
+              "cost": "Rs 105",
+              "weight": "502g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Organic India Brown Sugar",
+              "cost": "Rs 48",
+              "weight": "498g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Gold Premium Brown Sugar",
+              "cost": "Rs 38",
+              "weight": "502g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Vataj Tea Powder",
+              "cost": "Rs 245",
+              "weight": "498g",
+              "delivery_time": "5 minutes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platform_name": "JioMart",
+      "categories": [
+        {
+          "category_name": "Chips and Namkeens",
+          "products": [
+            {
+              "product_name": "Kurkure",
+              "cost": "Rs 19",
+              "weight": "99g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Lays",
+              "cost": "Rs 21",
+              "weight": "101g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Bingo",
+              "cost": "Rs 17",
+              "weight": "99g",
+              "delivery_time": "13 minutes"
+            },
+            {
+              "product_name": "Cheetos",
+              "cost": "Rs 42",
+              "weight": "149g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Doritos",
+              "cost": "Rs 31",
+              "weight": "121g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Hot Chips",
+              "cost": "Rs 59",
+              "weight": "199g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Too Yumm",
+              "cost": "Rs 54",
+              "weight": "150g",
+              "delivery_time": "14 minutes"
+            },
+            {
+              "product_name": "Nutcracker",
+              "cost": "Rs 56",
+              "weight": "180g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Masala Puffs",
+              "cost": "Rs 36",
+              "weight": "120g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Spring",
+              "cost": "Rs 115",
+              "weight": "250g",
+              "delivery_time": "15 minutes"
+            },
+            {
+              "product_name": "Doritos",
+              "cost": "Rs 78",
+              "weight": "200g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Cheese Balls",
+              "cost": "Rs 36",
+              "weight": "100g",
+              "delivery_time": "12 minutes"
+            },
+            {
+              "product_name": "Makhana",
+              "cost": "Rs 198",
+              "weight": "300g",
+              "delivery_time": "13 minutes"
+            },
+            {
+              "product_name": "Nipper",
+              "cost": "Rs 209",
+              "weight": "250g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Nachos",
+              "cost": "Rs 18",
+              "weight": "100g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Third Day Mada",
+              "cost": "Rs 44",
+              "weight": "150g",
+              "delivery_time": "14 minutes"
+            },
+            {
+              "product_name": "Corn",
+              "cost": "Rs 30",
+              "weight": "120g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Pawn",
+              "cost": "Rs 20",
+              "weight": "100g",
+              "delivery_time": "11 minutes"
+            },
+            {
+              "product_name": "Chitos",
+              "cost": "Rs 10",
+              "weight": "80g",
+              "delivery_time": "12 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Fresh Vegetables and Fruits",
+          "products": [
+            {
+              "product_name": "Tomato",
+              "cost": "Rs 17",
+              "weight": "500g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Hybrid Tomato",
+              "cost": "Rs 17",
+              "weight": "500g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Potato",
+              "cost": "Rs 38",
+              "weight": "1kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Ooty Potato",
+              "cost": "Rs 52",
+              "weight": "500g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Onion",
+              "cost": "Rs 34",
+              "weight": "1kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Ladies Finger",
+              "cost": "Rs 15",
+              "weight": "300g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Carrot",
+              "cost": "Rs 38",
+              "weight": "500g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Beans",
+              "cost": "Rs 98",
+              "weight": "250g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Cauliflower",
+              "cost": "Rs 41",
+              "weight": "500g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Cucumber",
+              "cost": "Rs 19",
+              "weight": "3 pieces",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Green Capsicum",
+              "cost": "Rs 24",
+              "weight": "200g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Red Bell Pepper",
+              "cost": "Rs 37",
+              "weight": "200g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Ridge Gourd",
+              "cost": "Rs 36",
+              "weight": "500g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Pointed Gourd",
+              "cost": "Rs 40",
+              "weight": "300g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Drumstick",
+              "cost": "Rs 21",
+              "weight": "80g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Beetroot",
+              "cost": "Rs 32",
+              "weight": "500g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Brinjal",
+              "cost": "Rs 24",
+              "weight": "550g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Coconut",
+              "cost": "Rs 250",
+              "weight": "1 piece",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Coriander, Curry Leaves, Pudina Combo",
+              "cost": "Rs 29",
+              "weight": "100g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Coriander",
+              "cost": "Rs 12",
+              "weight": "100g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Chillies",
+              "cost": "Rs 12",
+              "weight": "100g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Spinach",
+              "cost": "Rs 26",
+              "weight": "250g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Mango",
+              "cost": "Rs 109",
+              "weight": "600g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Jamun",
+              "cost": "Rs 59",
+              "weight": "200g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Banana",
+              "cost": "Rs 64",
+              "weight": "500g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Litchi",
+              "cost": "Rs 109",
+              "weight": "250g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Big Bananas",
+              "cost": "Rs 38",
+              "weight": "4 pieces",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Indian Cherry",
+              "cost": "Rs 89",
+              "weight": "100g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Apples",
+              "cost": "Rs 89",
+              "weight": "400g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Watermelon",
+              "cost": "Rs 79",
+              "weight": "2.5kg",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Pomegranate",
+              "cost": "Rs 159",
+              "weight": "500g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Grapes",
+              "cost": "Rs 99",
+              "weight": "500g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Orange",
+              "cost": "Rs 69",
+              "weight": "500g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Tender Coconut",
+              "cost": "Rs 72",
+              "weight": "250ml",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Avocado",
+              "cost": "Rs 85",
+              "weight": "150g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Muskmelon",
+              "cost": "Rs 55",
+              "weight": "600g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Blueberries",
+              "cost": "Rs 249",
+              "weight": "120g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Pineapple",
+              "cost": "Rs 69",
+              "weight": "450g",
+              "delivery_time": "7 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Dairy, Bread and Eggs",
+          "products": [
+            {
+              "product_name": "Whole Wheat Bread",
+              "cost": "Rs 55",
+              "weight": "350g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Buttermilk Bread",
+              "cost": "Rs 39",
+              "weight": "250g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Fresh Malai Paneer",
+              "cost": "Rs 99",
+              "weight": "200g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Modern Whole Wheat Bread",
+              "cost": "Rs 54",
+              "weight": "400g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Amul Butter Chiplets",
+              "cost": "Rs 75",
+              "weight": "100g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Amul Garlic and Herbs Butter",
+              "cost": "Rs 70",
+              "weight": "100g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Amul Taaza Toned Milk",
+              "cost": "Rs 148",
+              "weight": "1L",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Amul Moti Toned Milk",
+              "cost": "Rs 30",
+              "weight": "450ml",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Amul Masti Spiced Buttermilk",
+              "cost": "Rs 70",
+              "weight": "1L",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Amul Gold Homogenised Milk",
+              "cost": "Rs 80",
+              "weight": "500ml",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Greek Yoghurt Blueberry",
+              "cost": "Rs 60",
+              "weight": "85g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Amul Cheese",
+              "cost": "Rs 130",
+              "weight": "200g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Nandini Milk",
+              "cost": "Rs 27",
+              "weight": "500ml",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Nandini Pasteurised Milk",
+              "cost": "Rs 24",
+              "weight": "500ml",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Heritage Daily Health Toned Milk",
+              "cost": "Rs 26",
+              "weight": "500ml",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Good Life Nandini Toned Milk",
+              "cost": "Rs 30",
+              "weight": "500ml",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Nandini Curd",
+              "cost": "Rs 30",
+              "weight": "500ml",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Eggs",
+              "cost": "Rs 135",
+              "weight": "10 pieces",
+              "delivery_time": "7 minutes"
+            }
+          ]
+        },
+        {
+          "category_name": "Atta, Rice and Dal",
+          "products": [
+            {
+              "product_name": "Chakki Fresh Atta",
+              "cost": "Rs 256",
+              "weight": "1kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Fortune Premium Atta",
+              "cost": "Rs 301",
+              "weight": "5kg",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Super Atta",
+              "cost": "Rs 30",
+              "weight": "1kg",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Basmati Rice Fortune",
+              "cost": "Rs 89",
+              "weight": "1kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Basmati Rice Dawat",
+              "cost": "Rs 81",
+              "weight": "1kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "India Gate Basmati Rice",
+              "cost": "Rs 93",
+              "weight": "1kg",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Supreme Harvest",
+              "cost": "Rs 76",
+              "weight": "1kg",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Fortune Basmati",
+              "cost": "Rs 59",
+              "weight": "500g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Tata Sampann Basmati",
+              "cost": "Rs 60",
+              "weight": "500g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Bansi Rava",
+              "cost": "Rs 37",
+              "weight": "500g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Sooji Rava",
+              "cost": "Rs 42",
+              "weight": "500g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "HMY Arhar Dal",
+              "cost": "Rs 93",
+              "weight": "500g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Ginger Garlic Paste",
+              "cost": "Rs 44",
+              "weight": "200g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Mustard Small Whole Harvest",
+              "cost": "Rs 20",
+              "weight": "100g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Jeera",
+              "cost": "Rs 49",
+              "weight": "100g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Coriander Powder",
+              "cost": "Rs 31",
+              "weight": "100g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Coriander",
+              "cost": "Rs 30",
+              "weight": "100g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Red Chilli Powder",
+              "cost": "Rs 44",
+              "weight": "100g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Kashmiri Red Chilli Powder",
+              "cost": "Rs 90",
+              "weight": "100g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Coconut Milk",
+              "cost": "Rs 76",
+              "weight": "200ml",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Everest Red Chilli Powder",
+              "cost": "Rs 48",
+              "weight": "100g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Supreme Harvest Chilli Whole",
+              "cost": "Rs 60",
+              "weight": "100g",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Everest Yellow Hing Powder",
+              "cost": "Rs 85",
+              "weight": "50g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Everest Chicken Masala",
+              "cost": "Rs 85",
+              "weight": "100g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Everest Turmeric Powder",
+              "cost": "Rs 82",
+              "weight": "200g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Catching Powder",
+              "cost": "Rs 107",
+              "weight": "50g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Organic India Himalayan Salt",
+              "cost": "Rs 137",
+              "weight": "1kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Tata Salt",
+              "cost": "Rs 28",
+              "weight": "1kg",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Aashirvaad Salt",
+              "cost": "Rs 25",
+              "weight": "1kg",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Tata Pink Salt",
+              "cost": "Rs 74",
+              "weight": "1kg",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Black Salt",
+              "cost": "Rs 47",
+              "weight": "200g",
+              "delivery_time": "6 minutes"
+            },
+            {
+              "product_name": "Healthy Puro Salt",
+              "cost": "Rs 115",
+              "weight": "1kg",
+              "delivery_time": "7 minutes"
+            },
+            {
+              "product_name": "Organic India Jaggery Powder",
+              "cost": "Rs 103",
+              "weight": "500g",
+              "delivery_time": "8 minutes"
+            },
+            {
+              "product_name": "Organic India Brown Sugar",
+              "cost": "Rs 50",
+              "weight": "500g",
+              "delivery_time": "9 minutes"
+            },
+            {
+              "product_name": "Gold Premium Brown Sugar",
+              "cost": "Rs 40",
+              "weight": "500g",
+              "delivery_time": "10 minutes"
+            },
+            {
+              "product_name": "Vataj Tea Powder",
+              "cost": "Rs 250",
+              "weight": "500g",
+              "delivery_time": "6 minutes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
